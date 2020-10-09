@@ -1,0 +1,35 @@
+html, body, #root, .react-root {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.centered {
+    text-align: center;
+}
+
+button {
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid white;
+    color: white;
+    font-stretch: 20px;
+}
+
+
+.red{
+    background-color: red;
+    color: white;
+}
+
+.blue{
+    background-color: blue;
+    color: white;
+}
+
+.yellow{
+    background-color: yellow;
+    color: black;
+}
